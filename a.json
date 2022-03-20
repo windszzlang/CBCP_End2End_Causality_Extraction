@@ -1,0 +1,51 @@
+{
+    "qas": [
+        [
+            {
+                "question": "原因中的核心名词",
+                "answers": [
+                    {
+                        "start": 20,
+                        "end": 21,
+                        "text": "油价"
+                    }
+                ]
+            },
+            {
+                "question": "原因中的谓语或状态",
+                "answers": [
+                    {
+                        "start": 23,
+                        "end": 26,
+                        "text": "持续稳定"
+                    }
+                ]
+            },
+            {
+                "question": "中心词",
+                "answers": [
+                    {
+                        "start": 17,
+                        "end": 19,
+                        "text": "受益于"
+                    }
+                ]
+            },
+            {
+                "question": "结果中的核心名词",
+                "answers": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "text": "收获1.31亿美元FPSO大单项目"
+                    }
+                ]
+            },
+            {
+                "question": "结果中的谓语或状态",
+                "answers": []
+            }
+        ]
+    ],
+    "text": "收获1.31亿美元FPSO大单项目受益于油价的持续稳定，全球FPSO市场保持高热行情，很多FPSO项目具备不同程度的经济性，促使全球市场多个FPSO项目进入最终投资决定，挪威油气研究机构RystadEnergy表示全球FPSO市场已达高位水平，以此预测，FPSO市场有望迎来订单爆发期。"
+}
